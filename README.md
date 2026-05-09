@@ -10,7 +10,7 @@ and deployed to Apache Tomcat — all triggered by a GitHub code push with **zer
 
 > ✅ Code Push → GitHub Webhook → Jenkins Pipeline → Maven Build → S3 Artifact → Tomcat Deployment
 
----
+----
 
 ## 🏗️ Architecture Diagram
 
